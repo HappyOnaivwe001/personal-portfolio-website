@@ -1,4 +1,4 @@
-🌐 Personal Portfolio Website
+Personal Portfolio Website
 
 A responsive and modern personal portfolio website created to showcase my skills as an entry-level Frontend Developer.
 Built with HTML, CSS, JavaScript, and designed with clean UI, smooth navigation, and a light/dark theme toggle.
