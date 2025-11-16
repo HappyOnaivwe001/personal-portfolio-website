@@ -28,7 +28,7 @@ This project is designed to showcase your skills, projects, and contact informat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/personal-portfolio-website.git
+   git clone https://github.com/HappyOnaivwe001/personal-portfolio-website.git
    ```
 
 2. Open the project folder:
@@ -41,28 +41,3 @@ This project is designed to showcase your skills, projects, and contact informat
 
    - You can double-click `index.html`, or
    - Run a simple local server (for example, using VS Code Live Server extension).
-
-## Customize It
-
-- Replace all instances of `Your Name`, `youremail@example.com`, and placeholder links with your actual information.
-- Update the **Projects** section with your real projects and descriptions.
-- Customize colors or typography in `styles.css` to match your personal branding.
-- Export your own vector illustration from **Ibis Paint X** and replace the CSS-based hero graphic if you like.
-
-## Deployment
-
-You can easily deploy this portfolio using:
-
-- GitHub Pages
-- Netlify
-- Vercel
-
-For GitHub Pages:
-
-1. Push this project to a GitHub repository.
-2. In your repo settings, enable GitHub Pages and point it to the `main` branch.
-3. Your portfolio will be available at `https://your-username.github.io/personal-portfolio-website`.
-
----
-
-Feel free to iterate on this design as you grow your skills. This project is a great starting point for your GitHub and tech career program applications.
